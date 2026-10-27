@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=3482FF&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JiMiNaToR&label=Profile%20views&color=3482FF&style=flat" alt="Profile views" />
 </p>
 
 ---
 
 ### 🚀 Featured Project
 
-#### [Local LLM Phone Chat](https://github.com/YOUR_USERNAME/local-llm-phone-chat)
+#### [Local LLM Phone Chat](https://github.com/JiMiNaToR/local-llm-phone-chat)
 A mobile-first, agentic web UI for local LLMs. It lets you run powerful models (like Gemma 4) on your PC and access them securely from your phone over Tailscale, complete with full file system tools, command execution, and a beautiful HyperOS-inspired UI.
 
 - **Stack**: Node.js, Vanilla JS, CSS, LM Studio, Tailscale
